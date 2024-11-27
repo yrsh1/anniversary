@@ -1,0 +1,19 @@
+img{
+    height: 150px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+h2{
+    font-size: medium;
+    text-align: right;
+}
+p:hover{
+    color: rgb(161, 75, 121);
+}
+h2:hover{
+    color: rgb(192, 69, 134);
+}
+body{
+    background-color: rgb(179, 202, 244);
+}
